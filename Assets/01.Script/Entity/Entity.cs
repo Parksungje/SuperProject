@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace _01.Script.Unit
+namespace _01.Script.Entity
 {
     public class Entity : MonoBehaviour
     {
